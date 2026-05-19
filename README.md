@@ -10,3 +10,6 @@ manually, using AI only as a reference tool.
 - **API/UI Testing:** Playwright, Requests, Pytest, Pydantic, Faker, Mocks
 - **Other:** Core Python libraries, Logging, CSS/XPath selectors, Docker, 
   Jenkins, CI/CD, Allure
+
+**Project Structure:**
+- **In progress** — structure and examples will be added shortly.
